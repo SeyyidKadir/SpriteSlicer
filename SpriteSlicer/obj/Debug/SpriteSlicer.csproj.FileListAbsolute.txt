@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SpriteSlicer\SpriteSlicer\bin\Debug\SpriteSlicer.exe.config
+C:\Users\Acer\source\repos\SpriteSlicer\SpriteSlicer\bin\Debug\SpriteSlicer.exe
+C:\Users\Acer\source\repos\SpriteSlicer\SpriteSlicer\bin\Debug\SpriteSlicer.pdb
+C:\Users\Acer\source\repos\SpriteSlicer\SpriteSlicer\obj\Debug\SpriteSlicer.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\SpriteSlicer\SpriteSlicer\obj\Debug\SpriteSlicer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SpriteSlicer\SpriteSlicer\obj\Debug\SpriteSlicer.exe
+C:\Users\Acer\source\repos\SpriteSlicer\SpriteSlicer\obj\Debug\SpriteSlicer.pdb
